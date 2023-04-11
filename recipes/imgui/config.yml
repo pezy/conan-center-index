@@ -31,6 +31,8 @@ versions:
   # after a regular release
   "cci.20230314+1.89.4.docking":
     folder: all
+  "cci.20230314+1.89.3.docking":
+    folder: all
   "cci.20230105+1.89.2.docking":
     folder: all
   "cci.20220621+1.88.docking":

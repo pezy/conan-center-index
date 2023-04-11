@@ -44,7 +44,10 @@ sources:
   # after a regular release
   "cci.20230314+1.89.4.docking":
     url: "https://github.com/ocornut/imgui/archive/9e30fb0ec1b44dc1b041db6bdd53b130b2a18509.zip"
-    sha256: "76FE611E26F22551D29140903140633C78383125A172F2F6423136567E2E3300"
+    sha256: "76fe611e26f22551d29140903140633c78383125a172f2f6423136567e2e3300"
+  "cci.20230314+1.89.3.docking":
+    url: "https://github.com/ocornut/imgui/archive/192196711a7d0d7c2d60454d42654cf090498a74.zip"
+    sha256: "626dc529567f0fc250aedb7dbf5132b9ef5dbecf7b54284e08005331fe06f629"
   "cci.20230105+1.89.2.docking":
     url: "https://github.com/ocornut/imgui/archive/d822c65317ba881798bed8fce9ffba267d27dada.zip"
     sha256: "0d2c09ae4c450d4c74f62e66667809752c9d11438354fc331ed9da5d5e850071"
