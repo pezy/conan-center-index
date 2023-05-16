@@ -1,4 +1,7 @@
 sources:
+  "0.14.hotfix":
+    url: "https://github.com/epezent/implot/archive/18758e237e8906a97ddf42de1e75793526f30ce9.tar.gz"
+    sha256: "a072b72562be16963413c4106fbce87ef3648eaadeb87123ea00b4ea746c488d"
   "0.14":
     url: "https://github.com/epezent/implot/archive/v0.14.tar.gz"
     sha256: "1613af3e6554c0a74de20c6e60e9bce5ce35c2d4f9e1aa5ff963f7fe2d48af88"
