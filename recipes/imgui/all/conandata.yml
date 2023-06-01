@@ -42,6 +42,9 @@ sources:
   # These versions belong to the docking branch in ImGUI repository. This branch is declared stable and production ready, and
   # it is synced with `master` regularly. These versions are taken from that branch using the commit where `master` was synced
   # after a regular release
+  "cci.20230601+1.89.6.docking":
+    url: "https://github.com/ocornut/imgui/archive/823a1385a269d923d35b82b2f470f3ae1fa8b5a3.zip"
+    sha256: "cf07f8dc35a5ba3f890f8a7377609784d8e5c08d4d899a8aa81a9c8a9a8dc29c"
   "cci.20230314+1.89.4.docking":
     url: "https://github.com/ocornut/imgui/archive/9e30fb0ec1b44dc1b041db6bdd53b130b2a18509.zip"
     sha256: "76fe611e26f22551d29140903140633c78383125a172f2f6423136567e2e3300"

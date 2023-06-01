@@ -29,6 +29,8 @@ versions:
   # These versions belong to the docking branch in ImGUI repository. This branch is declared stable and production ready, and
   # it is synced with `master` regularly. These versions are taken from that branch using the commit where `master` was synced
   # after a regular release
+  "cci.20230601+1.89.6.docking":
+    folder: all
   "cci.20230314+1.89.4.docking":
     folder: all
   "cci.20230314+1.89.3.docking":
