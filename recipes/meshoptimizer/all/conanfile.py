@@ -52,7 +52,7 @@ class MeshOptimizerConan(ConanFile):
         apply_conandata_patches(self)
         # No warnings as errors
         cmakelists = os.path.join(self.source_folder, "CMakeLists.txt")
-        replace_in_file(self, cmakelists, "add_compile_options(/W4 /WX)", "")
+        replace_in_file(self, cmakelists, "add_compile_options(/WX)", "")
         replace_in_file(self, cmakelists, "-Werror", "")
 
     def build(self):
